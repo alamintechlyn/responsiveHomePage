@@ -12,14 +12,14 @@ $('.slideText').slick({
 
 
 //   protfolio slider
-// $('.protslider').slick({
-//     slidesToShow: 4,
-//     slidesToScroll: 4,
-//     arrows: false,
-//     autoplay: false,
-//     dots: true,
-//     autoplaySpeed: 2000,
-//   });
+$('.protslider').slick({
+    slidesToShow: 4,
+    slidesToScroll: 4,
+    arrows: false,
+    autoplay: false,
+    dots: true,
+    autoplaySpeed: 2000,
+  });
 
 
 
