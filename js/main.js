@@ -12,16 +12,14 @@ $('.slideText').slick({
 
 
 //   protfolio slider
-$('.protslider').slick({
-    slidesToShow: 4,
-    slidesToScroll: 4,
-    arrows: false,
+$('.protfolioImage').slick({
+    slidesToShow: 5,
+    slidesToScroll: 1,
+    arrows: true,
     autoplay: false,
-    dots: true,
+    dots: false,
     autoplaySpeed: 2000,
   });
-
-
 
 
 // accordian 
